@@ -20,14 +20,14 @@ Currently, I’m strengthening my full-stack development skills and exploring AI
 
 ## 🛠️ Technical Skills
 
-### Languages
+### Languages 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=js,python" />
 </p>
 
 ### Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
 </p>
 
 React.js • React Hooks • React Router • Responsive Design • API Integration
@@ -41,17 +41,17 @@ Node.js • Express.js • REST APIs • JWT Authentication • bcrypt • CRUD 
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-MongoDB • Mongoose • MySQL • PostgreSQL
+MongoDB • Mongoose • MySQL 
 
 ### Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,redis,postman,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
-Git • GitHub • Docker • Redis • BullMQ • Postman • Ubuntu • VS Code
+Git • GitHub • Postman 
 
 ### AI Integration
 - Google Gemini API
@@ -76,6 +76,7 @@ A full-stack collaboration platform designed to help developers organize project
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Google Gemini AI
 
+🔗 [Live Demo](https://collab-sphere-three-lyart.vercel.app/)
 ---
 
 ### 02. Feedback Manager
@@ -92,7 +93,7 @@ A web application that enables users to submit feedback, ratings, and comments t
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-🔗 [View Source Code](https://github.com/rajni978/Feedback-manager)
+🔗 [Live Demo](https://feedback-manager-frontend.vercel.app/)
 
 ---
 
@@ -144,15 +145,6 @@ This experience helped me develop the ability to work with people, take responsi
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajni978&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajni978&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🎯 What I'm Working Towards
 
 - Strengthening my Data Structures & Algorithms skills using Python
@@ -168,9 +160,7 @@ This experience helped me develop the ability to work with people, take responsi
 I'm always interested in connecting with developers, learning from experienced engineers, and exploring opportunities to contribute to meaningful projects.
 
 <p>
-<a href="https://github.com/rajni978">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 <a href="https://www.linkedin.com/in/rajni-khairwar-914bb5376/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
