@@ -1,6 +1,6 @@
 # Hi, I'm Rajni Khairwar 
 
-### Full Stack Developer | React.js | Node.js | MongoDB
+### Full Stack Developer | MERN STACK Developer
 
 I’m a BCA student and aspiring Software Engineer passionate about building practical, user-focused web applications.
 
