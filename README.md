@@ -1,4 +1,4 @@
-# Hi, I'm Rajni Khairwar 
+# Hi, I'm Rajni
 
 ### Full Stack Developer | MERN STACK Developer
 
